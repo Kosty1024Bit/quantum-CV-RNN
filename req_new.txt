@@ -1,0 +1,8 @@
+tensorflow
+numpy==1.26.4
+
+PennyLane
+PennyLane-SF
+StrawberryFields
+
+matplotlib
